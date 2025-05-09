@@ -1,1 +1,6 @@
-k
+Merhaba
+Linkler;
+Apk;
+BrowserM:https://download1638.mediafire.com/wfadyw12pnfg0ZbIqFZGRWfraKop5lsayaOnL-QGJVSBfe2m0hjcACi65RjyqI52fzBkJW1vMsrB2i8Y7YuFjFD9_UGM-gC8U2WhbXJCArLL1_kpLpgtIbqK4iblNS8wv1yajFs3aVUA6GkI87Rx6BnkXvBhS3pI72J-X2We4Jg/mabolfwtghc4dlg/base%281%29.apk
+
+inf:Uygulama internet tarayıcısıdır
